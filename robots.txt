@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iondisto.github.io/sitemap.html.gz
+Sitemap: https://iondisto.github.io/app/sitemap.html.gz
+Sitemap: https://iondisto.github.io/assets/sitemap.html.gz
+Sitemap: https://iondisto.github.io/css/sitemap.html.gz
+Sitemap: https://iondisto.github.io/data/sitemap.html.gz
+Sitemap: https://iondisto.github.io/includes/sitemap.html.gz
+Sitemap: https://iondisto.github.io/item/sitemap.html.gz
+Sitemap: https://iondisto.github.io/src/sitemap.html.gz
